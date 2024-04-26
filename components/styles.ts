@@ -46,7 +46,9 @@ const styles = StyleSheet.create({
 
   content: {
     width: '100%',
-    padding: RFPercentage(1.5),
+    paddingVertical: RFPercentage(2.5),
+    paddingLeft: RFPercentage(0.5),
+    paddingRight: RFPercentage(2.5),
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'flex-start',
